@@ -10,7 +10,7 @@ Before running the scripts, ensure you have the following installed:
 
 1. Clone the repository to your local machine:
     ```sh
-    git clone https://github.com/NgDMTruc/REL_lab.git
+    git clone https://github.com/amm119/lab1p2rel.git
     cd REL_lab
     ```
 
