@@ -1,0 +1,4 @@
+Q1: python gridworld.py -a value -i 100 -k 10
+python gridworld.py -a value -i 5
+Q2: python gridworld.py -a value -i 100 -g BridgeGrid --discount 0.9 --noise 0.2
+Q3: python gridworld.py -a value -i 100 -g DiscountGrid --discount 0.9 --noise 0.2 --livingReward 0.0
